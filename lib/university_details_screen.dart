@@ -54,7 +54,7 @@ class _UniversityScreenState extends State<UniversityScreen> {
                     borderRadius: BorderRadius.circular(16),
                   ),
                   elevation: 8,
-                  shadowColor: Colors.pink.withOpacity(0.3),
+                  shadowColor: Colors.black.withOpacity(0.3),
                   child: Padding(
                     padding: const EdgeInsets.all(16),
                     child: Column(
